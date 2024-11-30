@@ -1,3 +1,4 @@
+'''
 print(5)
 print(-10)
 print(3.14)
@@ -16,3 +17,6 @@ print(False)
 print(not True)
 print(not False)
 print(not(5<10))
+'''
+from random import *
+print(int(random)45 * )+1)
